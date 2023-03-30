@@ -1,0 +1,3 @@
+package application.port.out
+
+interface ProductRepositoryPort
